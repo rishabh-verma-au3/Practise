@@ -1,0 +1,31 @@
+---Steps to be followed---
+
+create a folder of your own in ur machine
+
+open cmd or git bash at current folder
+
+git clone https://github.com/vinaykumarpoosala/retailBanking
+
+git checkout -b your_branch_name
+
+(optional) git branch      ----> check which branch u r working on
+
+change the code .......
+
+git add .
+
+git commit -m "your commit message"
+
+
+git checkout origin
+
+git pull
+
+git checkout your_branch_name
+
+
+git push origin your_branch_name
+
+
+
+then open git hub and raise pull request..
